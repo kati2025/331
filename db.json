@@ -33,5 +33,16 @@
       "petsAllowed": false,
       "organizer": "Carey Wales"
     }
+    {
+      "id": 1234567,
+      "category": "Run",
+      "title": "Fun Run",
+      "description": "Go go together.",
+      "location": "CMU",
+      "date": "August 10, 2022",
+      "time": "06:00",
+      "petsAllowed": true,
+      "organizer": "Carey Wales"
+    }
   ]
 }
